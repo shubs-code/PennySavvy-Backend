@@ -1,6 +1,6 @@
 
-## Backend for Projet Application Penny Smart
- 
+## Backend for Projet
+having  user creation and leader board with transactions 
 ## Run Spring Boot application
 ```
 
